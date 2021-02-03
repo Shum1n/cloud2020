@@ -8,7 +8,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * @ClassName: ApplicationContextConfig
  * @description:
- * @author: XZQ
+ * @author: shum1n
  * @create: 2020/3/11 15:39
  **/
 @Configuration
